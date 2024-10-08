@@ -84,9 +84,9 @@
         <jersey.version>1.19</jersey.version>
         <javax.servlet.jap.version>2.1</javax.servlet.jap.version>
         <hadoop.binary.version>2.7</hadoop.binary.version>
-        <jackson.version>2.13.3</jackson.version>
+        <jackson.version>2.13.4.2</jackson.version>
         <lombok.version>1.18.24</lombok.version>
-        <commons-compress.version>1.20</commons-compress.version>
+        <commons-compress.version>1.26.0</commons-compress.version>
         <avro.version>1.11.1</avro.version>
         <skip.pmd.check>false</skip.pmd.check>
         <maven.deploy.skip>false</maven.deploy.skip>
@@ -103,7 +103,7 @@
         <elasticsearch7.client.version>7.5.1</elasticsearch7.client.version>
         <flink-shaded-hadoop-2.version>2.7.5-7.0</flink-shaded-hadoop-2.version>
         <commons-lang3.version>3.5</commons-lang3.version>
-        <commons-io.version>2.11.0</commons-io.version>
+        <commons-io.version>2.14.0</commons-io.version>
         <commons-collections4.version>4.4</commons-collections4.version>
         <commons-csv.version>1.10.0</commons-csv.version>
         <maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
@@ -136,7 +136,7 @@
         <skipUT>false</skipUT>
         <skipIT>true</skipIT>
         <elasticsearch>7</elasticsearch>
-        <guava.version>27.0-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
         <auto-service.version>1.0.1</auto-service.version>
         <hadoop2.version>2.6.5</hadoop2.version>
         <seatunnel.shade.package>org.apache.seatunnel.shade</seatunnel.shade.package>
